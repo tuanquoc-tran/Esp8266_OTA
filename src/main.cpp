@@ -5,7 +5,7 @@
 ESP8266WebServer webServer(80);
 DNSServer dnsServer;
 
-const char *ssid_ap = "Demo_Esp8266";
+const char *ssid_ap = "Esp8266";
 const char *pass_ap = "12345678";
 uint8_t max_connections = 8;
 
